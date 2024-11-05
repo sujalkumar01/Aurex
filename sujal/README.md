@@ -9,7 +9,6 @@ Stock<span/>.io is a trading and investment simulation platform developed with t
 - [Stack](#stack)<br/>
 - [Data](#data)<br/>
 - [Development](#development)<br/>
-- [Screenshots](#screenshots)<br/>
 
 ## Stack
 
