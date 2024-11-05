@@ -64,7 +64,6 @@ This project uses [JSON](https://www.json.org/json-en.html) to represent stock d
 ]
 ```
 
-The [schema](https://mongoosejs.com/docs/guide.html) of this model can be found in [`/server/models/Stock.ts`](https://github.com/roynulrohan/AureX/blob/master/server/models/Stock.ts)
 
 ## Development
 
@@ -133,14 +132,3 @@ Now you can run the clientproject.
 # start react app
 npm start
 ```
-
-## Screenshots
-
-Home Page
-![](misc/Home-Page.png)
-Market Page
-![](misc/Market-Page.png)
-Stock Page
-![](misc/Stock-Page.png)
-Account Page
-![](misc/Account-Page.png)
