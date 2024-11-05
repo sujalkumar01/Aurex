@@ -1,4 +1,4 @@
-# Stocks<span/>.io Trading Platform
+Trading Platform
 
 ## Overview
 
